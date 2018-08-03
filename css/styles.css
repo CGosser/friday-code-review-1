@@ -6,8 +6,18 @@
   margin-right: auto;
 }
 
+.panelstuff{
+  padding: 2px;
+}
+.industrial{
+  /* float:right */
 
 }
+}
 #notme{
-  width: 60%
+  width: 60%;
+}
+#adios{
+  float: right
+  padding: 2px;
 }
